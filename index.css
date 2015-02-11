@@ -7,7 +7,10 @@
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
-	}
+}
+body {
+  background-image: url(index_background.jpg)
+}
 h1 {
     text-align: center;
 }
@@ -19,9 +22,10 @@ p {
     border-width: thick;
 }
 p.resume_link {
-  
+    left: 20%;
     float: left;
 }
 p.bio_link {
+    right: 20%;
     float: right;
 }
