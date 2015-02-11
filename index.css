@@ -1,7 +1,7 @@
-.center {
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
+.image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 	width: 300px;
 	height: 300px;
 	border-radius: 150px;
@@ -9,18 +9,19 @@
 	-moz-border-radius: 150px;
 	}
 h1 {
-  text-align: center;
+    text-align: center;
 }
 p {
-  text-align: center;
-  font-weight: bold;
-  border-style: outset;
-  border-spacing: 30px;
-  border-width: thick;
+    position: relative;
+    text-align: center;
+    font-weight: bold;
+    border-style: outset;
+    border-width: thick;
 }
 p.resume_link {
-  float: left;
+  
+    float: left;
 }
 p.bio_link {
-  float: right;
+    float: right;
 }
