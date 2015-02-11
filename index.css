@@ -1,16 +1,17 @@
-
 body {
+    letter-spacing: 5px;
   	font-family: "Consolas";
-    background-image: url(http://jmcdow02.github.io/index_background.jpg);
+    background-image: url(index_background.jpg);
     background-size: 100%;
 }
-h1 {
+h1 { 
   	text-align: center;
   	top: 240px;
   	float: left;
   	margin: 0 1.5%;
   	width: 33%;
   	font-size: 40px;
+    font_weight: bold;
   	position: relative;
 }
 .face {
@@ -26,6 +27,7 @@ h1 {
 	-moz-border-radius: 150px;
 }
 h2 {
+    letter-spacing: 5px;
   	float: left;
   	margin: 0 1.5%;
   	top: 200px;
