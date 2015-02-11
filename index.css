@@ -13,4 +13,12 @@ h1 {
 }
 p {
   text-align: center;
+  font-weight: bold;
+  border-style: outset;
+}
+p.resume_link {
+  float: left;
+}
+p.bio_link {
+  float: right;
 }
