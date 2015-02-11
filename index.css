@@ -1,45 +1,44 @@
 
 body {
-	font-family: "Consolas";
-    background-image: url(index_background.jpg);
+  	font-family: "Consolas";
+    background-image: url(http://jmcdow02.github.io/index_background.jpg);
     background-size: 100%;
 }
 h1 {
-  text-align: center;
-  top: 240px;
-  float: left;
-  margin: 0 1.5%;
-  width: 33%;
-  font-size: 40px;
-  position: relative;
+  	text-align: center;
+  	top: 240px;
+  	float: left;
+  	margin: 0 1.5%;
+  	width: 33%;
+  	font-size: 40px;
+  	position: relative;
 }
 .face {
-  position: relative;
+  	position: relative;
     display: block;
-	  float: left;
-  width: 300px;
+	float: left;
+  	width: 300px;
 	height: 300px;
-  top: 100px;
-  left: 50px;
+  	top: 100px;
+  	left: 50px;
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
 }
 h2 {
-  float: left;
-  margin: 0 1.5%;
-  top: 200px;
-  width: 33%;
-  left: 80px;
-  font-size: 40px;
-  position: relative;
+  	float: left;
+  	margin: 0 1.5%;
+  	top: 200px;
+  	width: 33%;
+  	left: 80px;
+  	font-size: 40px;
+  	position: relative;
 }
 ul{
-  list-style-type: none;
-    padding: 0;
-    margin: 0;
-
-  text-align: left;
+  	list-style-type: none;
+  	padding: 0;
+  	margin: 0;
+  	text-align: left;
 }
 li {
     text-align: center;
@@ -47,4 +46,7 @@ li {
     display: block;
     padding: 20px;
     list-style-position: outside;
+}
+a {
+    text-decoration: none;
 }
