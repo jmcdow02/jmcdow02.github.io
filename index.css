@@ -1,4 +1,18 @@
-.image {
+
+body {
+    background-image: url(index_background.jpg);
+    background-size: 100%;
+}
+h1 {
+  text-align: center;
+  top: 240px;
+  float: left;
+  margin: 0 1.5%;
+  width: 33%;
+  font-size: 40px;
+  position: relative;
+}
+.face {
   position: relative;
     display: block;
 	  float: left;
@@ -10,37 +24,26 @@
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
 }
-body {
-    background-image: url(http://jmcdow02.github.io/index_background.jpg);
-    background-size: 100%;
-}
-h1 {
-  text-align: center;
-  top: 140px;
+h2 {
   float: left;
   margin: 0 1.5%;
-  width: 30%;
+  top: 200px;
+  width: 33%;
+  left: 80px;
   font-size: 40px;
   position: relative;
 }
 ul{
-    list-style-type: none;
+  list-style-type: none;
     padding: 0;
     margin: 0;
-    text-align: right;
-    padding-right: 10%;
+
+  text-align: left;
 }
 li {
+    text-align: left;
     font-size: 30px;
     display: block;
-    padding: 60px;
+    padding: 20px;
     list-style-position: outside;
-}
-h2 {
-  text-align: center;
-  float: left;
-  margin: 0 1.5%;
-  width: 30%;
-  font-size: 40px;
-  position: relative;
 }
