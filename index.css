@@ -4,8 +4,8 @@ body {
     background-image: url(index_background.jpg);
     background-size: 100%;
 }
-h1 { 
-  	text-align: center;
+#name {
+	text-align: center;
   	top: 240px;
   	float: left;
   	margin: 0 1.5%;
@@ -14,6 +14,16 @@ h1 {
     font_weight: bold;
   	position: relative;
 }
+/*h1 { 
+  	text-align: center;
+  	top: 240px;
+  	float: left;
+  	margin: 0 1.5%;
+  	width: 33%;
+  	font-size: 40px;
+    font_weight: bold;
+  	position: relative;
+}*/
 .face {
   	position: relative;
     display: block;
