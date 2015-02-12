@@ -1,7 +1,8 @@
 body {
     letter-spacing: 7px;
   	font-family: "Consolas";
-    background-image: url(index_background.jpg);
+    /*background-image: url(index_background.jpg);*/
+    background-color: coral;
     background-size: 100%;
 }
 #name {
