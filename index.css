@@ -1,8 +1,8 @@
 body {
-    letter-spacing: 7px;
-  	font-family: "Century Gothic";
+    letter-spacing: 10px;
+  	font-family: "Lucida Console";
   	color: white;
-    /*background-image: url(index_background.jpg);*/
+  	font-weight: 100;
     background-color: indigo;
     background-size: 100%;
 }
@@ -11,8 +11,8 @@ body {
   	float: left;
   	margin: 0 1.5%;
   	width: 33%;
-  	font-size: 28px;
-    font_weight: bold;
+  	font-size: 20px;
+    font-weight: 100;
   	position: relative;
 }
 .face {
