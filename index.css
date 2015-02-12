@@ -1,7 +1,6 @@
 body {
     letter-spacing: 10px;
   	font-family: "Lucida Console";
-
     background-color: indigo;
 }
 #name {
@@ -16,28 +15,27 @@ body {
 .face {
   	position: relative;
     display: block;
-	float: left;
+	  float: right;
+  padding-right: 18%;
   	width: 300px;
 	height: 300px;
-  	top: 100px;
-  	left: 50px;
 	border-radius: 150px;
 	-webkit-border-radius: 150px;
 	-moz-border-radius: 150px;
 }
 #links_list {
     font-size: 16px;
-    position: relative;
-    letter-spacing: 10px;  
+    position: relative; 
     float: left;
   	margin: 0 1.5%;
-  	width: 33%;
 }
 ul{
   	list-style-type: none;
   	text-align: left;
+
 }
 li {
+    display: inline;
     padding: 20px;
     list-style-position: outside;
 }
