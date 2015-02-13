@@ -16,14 +16,14 @@ body {
 .face {
   	position: relative;
     display: block;
-	  float: right;
+	float: right;
   	width: 300px;
 	height: 300px;
 	border-radius: 150px;
-  margin-right: 18%;
-  margin-top: 10%;
+  	margin-right: 18%;
+  	margin-top: 10%;
 }
-#links_list {
+#list {
     font-size: 16px;
     position: relative; 
     float: left;
@@ -34,7 +34,6 @@ ul{
   	list-style-type: none;
 }
 li {
-
     display: inline;
     padding: 20px;
     list-style-position: outside;

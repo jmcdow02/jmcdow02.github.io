@@ -1,4 +1,10 @@
 body {
 	background: url(dark_embroidery.png);
 	color: white;
+	font-family: "Lucida Console";
+}
+.email {
+	background-color: white;
+	color: black;
+	padding: 10px;
 }

@@ -1,16 +1,11 @@
 body {
 	background: url(dark_embroidery.png);
 	color: white;
+	font-family: "Lucida Console";
 }
 .name {
 	text-align: center;
 }
 .section {
 	text-decoration: underline;
-}
-.content {
-
-}
-.specifics {
-
 }
