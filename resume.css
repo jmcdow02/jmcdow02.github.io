@@ -1,5 +1,6 @@
 body {
 	background: url(dark_embroidery.png);
+	color: white;
 }
 .name {
 	text-align: center;
@@ -8,7 +9,7 @@ body {
 	text-decoration: underline;
 }
 .content {
-	
+
 }
 .specifics {
 
