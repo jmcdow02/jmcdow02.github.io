@@ -3,7 +3,7 @@ body {
 	color: white;
 	font-family: "Lucida Console";
 }
-h2 {
+.email {
 	background-color: white;
 	color: black;
 	padding: 10px;
