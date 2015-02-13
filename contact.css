@@ -1,7 +1,9 @@
 body {
 	background: url(dark_embroidery.png);
-	color: white;
 	font-family: "Lucida Console";
+}
+h1{
+	color: white;
 }
 h2 {
 	background-color: white;
