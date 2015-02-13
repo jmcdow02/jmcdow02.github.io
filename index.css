@@ -1,7 +1,7 @@
 body {
     letter-spacing: 10px;
   	font-family: "Lucida Console";
-    background-color: indigo;
+    background: url(dark_embroidery.png);
 }
 #name {
   	position: relative;
