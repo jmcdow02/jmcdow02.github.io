@@ -11,6 +11,7 @@ body {
     font-size: 26px;
     font-style: normal;
     color: white;
+    letter-spacing: 13px;
     margin-left: 12%;
     margin-top: 13%;
 }
@@ -29,7 +30,7 @@ body {
     position: relative; 
     float: left;
   	margin: 0 1.5%;
-    margin-left: 12%;
+    margin-left: 10%;
 }
 ul{
   	list-style-type: none;
